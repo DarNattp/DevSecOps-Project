@@ -6,7 +6,7 @@ The codebase is forked from Google's [microservices-demo](https://github.com/Goo
 
 Through this project, I aim to deepen my understanding of DevSecOps best practices, strengthen my skills with relevant tools and technologies, and create a solid portfolio piece demonstrating my capabilities. I'm excited to continue developing this platform and exploring the possibilities at the intersection of development, security, and operations.
 
-## Diagram
+## Architecture Diagram
 
 ![alt text](picture/devsecops.png)
 
