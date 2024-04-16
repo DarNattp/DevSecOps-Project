@@ -12,13 +12,16 @@ Through this project, I aim to deepen my understanding of DevSecOps best practic
 
 ## Tools
 
-+ Secret Scanning - GitLeaks
-+ Static Application Security Testing (SAST) - SonarQube
-+ Software Composition Analysis (SCA) - OWASP Dependency-check 
-+ Container Scanning - Trivy
-+ Dynamic Application Security Testing (DAST) - OWASP ZAP
-+ Secret Management - Vault
-+ Provisioning - Rancher
-+ Registry - Harbor
++ GitLeaks - Secret Scanning
++ SonarQube - Static Application Security Testing (SAST)
++ OWASP Dependency-check - Software Composition Analysis (SCA) 
++ Trivy - Container Scanning
++ OWASP ZAP - Dynamic Application Security Testing (DAST)
++ Vault - Secret Management
++ Rancher - K8s Provisioning
++ Harbor - Docker image registry
++ ArgoCD - GitOps
++ Cosign - Sign container images with digital signature
++ Kyverno - Kubernetes Native Policy Management
 
 ## Source Code
