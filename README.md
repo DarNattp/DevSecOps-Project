@@ -240,6 +240,8 @@ stage('Cosign Sign Container Image') {
 }
 ```
 
+![alt text](picture/cosign.png)
+
 ### GitOps Update Manifest
 
 I create gitOpsUpdate function for update tag in git repository and call it in this stage. I still create `Discord` notification function when this stage has fail.
